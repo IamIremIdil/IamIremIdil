@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Irem Idil</h1>
 <h3 align="center">Student from Türkiye & aspiring to be a fullstack developer</h3>
 
-- 🔭 I’m currently working on [Shipment Intelligence System](https://github.com/IamIremIdil/Shipment-Intelligence-System)
+- 🔭 I’m currently working on : [Shipment Intelligence System](https://github.com/IamIremIdil/Shipment-Intelligence-System)
 
 - 🌱 I’m currently learning : **n8n,RAG,docker**
 
