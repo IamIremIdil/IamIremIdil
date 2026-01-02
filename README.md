@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Shipment Intelligence System](https://github.com/IamIremIdil/Shipment-Intelligence-System)
 
-- 🌱 I’m currently learning **n8n,RAG,docker**
+- 🌱 I’m currently learning : **n8n,RAG,docker**
 
-- 🤝 I’m looking for help with [github dashboard (live version)](https://github.com/IamIremIdil/Github-Dashboard)
+- 🤝 I’m looking for help with : [github dashboard (live version)](https://github.com/IamIremIdil/Github-Dashboard)
 
-- 🪴 Want to learn **new databases**
+- 🪴 Want to learn : **new databases**
 
-- 📫 How to reach me **iamiremidil@gmail.com**
+- 📫 How to reach me : **iamiremidil@gmail.com**
 
-- ⚡ Fun fact **I have so many hobbies**
+- ⚡ Fun fact : **I have so many hobbies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
