@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamiremidil" alt="iamiremidil" /></a> </p>
 
-- 🔭 I’m currently working on [github dashboard (live version)](https://github.com/IamIremIdil/Github-Dashboard)
+- 🔭 I’m currently working on [github dashboard (live version)](https://github.com/IamIremIdil/Gitboard-live)
 
 - 🌱 I’m currently learning **n8n,docker**
 
-- 🤝 I’m looking for help with [github dashboard (live version)](https://github.com/IamIremIdil/Github-Dashboard)
+- 🤝 I’m looking for help with [github dashboard (live version)](https://github.com/IamIremIdil/Gitboard-live)
 
 - 🪴 Want to learn **LLM Model Architecture & Attention Mechanisms**
 
@@ -28,5 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamiremidil&show_icons=true&locale=en" alt="iamiremidil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamiremidil&" alt="iamiremidil" /></p>
-
 
