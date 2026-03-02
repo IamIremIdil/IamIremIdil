@@ -1,6 +1,16 @@
 <h1 align="center">Hi there, I'm Irem Idil </h1>
-<h3 align="center">Student from Türkiye aspiring to be a fullstack developer</h3>
+<h3 align="center">Student from Türkiye aspiring to be a fullstack developer </h3>
 
+<!-- First GIF aligned to the LEFT, text will wrap to the right of it -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXM0eTFzbTE1a2V1MGNicWJjeTVoejA2MTJkY2Fkd3VpY296MWNjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GR1rLRFEaxnR9sfR3z/giphy.gif" alt="car" align="left" width="75" height="75" hspace="20">
+
+<!-- Second GIF aligned to the RIGHT, text will wrap to the left of it -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm85dHR6eWZoOGsyZGZjeTVvODJ2dTkzbXR2dnpsZzE5bnRvOWUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" alt="car2" align="right" width="130" height="100" hspace="20">
+
+<br clear="both">
+<!-- The <br clear="both"> tag above acts as a separator. 
+     It makes sure that the text below (like the Trophy section) starts 
+     after both images, so it doesn't try to wrap around them. -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamiremidil" alt="iamiremidil" /></a> </p>
 
 - 🔭 I’m currently working on [github dashboard (live version)](https://github.com/IamIremIdil/Gitboard-live)
@@ -28,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamiremidil&show_icons=true&locale=en" alt="iamiremidil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamiremidil&" alt="iamiremidil" /></p>
-
