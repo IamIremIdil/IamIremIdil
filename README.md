@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [github dashboard (live version)](https://github.com/IamIremIdil/Gitboard-live)
 
-- 🌱 I’m currently learning **n8n,docker**
+- 🌱 I’m currently learning **n8n,docker,mongoDB**
 
 - 🤝 I’m looking for help with [github dashboard (live version)](https://github.com/IamIremIdil/Gitboard-live)
 
