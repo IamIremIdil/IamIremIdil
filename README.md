@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Irem Idil </h1> <!-- Second GIF aligned to the RIGHT, text will wrap to the left of it -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzByZWdocWJyb2t6NG9xY2YzMncxNGc2M2RwamFubDM4dzczdHVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l378xzS1lxhhang9a/giphy.gif" alt="star1" align="left" width="50" height="50" hspace="200">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzByZWdocWJyb2t6NG9xY2YzMncxNGc2M2RwamFubDM4dzczdHVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l378xzS1lxhhang9a/giphy.gif" alt="star1" align="left" width="50" height="50" hspace="205">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzByZWdocWJyb2t6NG9xY2YzMncxNGc2M2RwamFubDM4dzczdHVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l378xzS1lxhhang9a/giphy.gif" alt="star2" align="right" width="50" height="50" hspace="200">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzByZWdocWJyb2t6NG9xY2YzMncxNGc2M2RwamFubDM4dzczdHVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l378xzS1lxhhang9a/giphy.gif" alt="star2" align="right" width="50" height="50" hspace="205">
 
 <h3 align="center">Student from Türkiye aspiring to be a fullstack developer </h3>
 
