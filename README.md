@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Irem Idil ![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif) </h1>
+<h1 align="center">Hi there, I'm Irem Idil </h1>
 <h3 align="center">Student from Türkiye aspiring to be a fullstack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamiremidil" alt="iamiremidil" /></a> </p>
