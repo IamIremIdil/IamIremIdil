@@ -7,7 +7,7 @@
 
 <!-- First GIF aligned to the LEFT, text will wrap to the right of it -->
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXM0eTFzbTE1a2V1MGNicWJjeTVoejA2MTJkY2Fkd3VpY296MWNjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GR1rLRFEaxnR9sfR3z/giphy.gif" alt="car" align="left" width="75" height="75" hspace="20">
-
+ଘ(੭*ˊᵕˋ)੭* ੈ♡‧₊˚
 <!-- Second GIF aligned to the RIGHT, text will wrap to the left of it -->
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm85dHR6eWZoOGsyZGZjeTVvODJ2dTkzbXR2dnpsZzE5bnRvOWUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" alt="car2" align="right" width="130" height="100" hspace="20">
 
