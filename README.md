@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Irem Idil ₍ᐢ. .ᐢ₎ ₊˚⊹♡ ❀.(*´◡`*)❀ </h1>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzByZWdocWJyb2t6NG9xY2YzMncxNGc2M2RwamFubDM4dzczdHVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l378xzS1lxhhang9a/giphy.gif" alt="star1" align="left" width="50" height="50" hspace="80">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzByZWdocWJyb2t6NG9xY2YzMncxNGc2M2RwamFubDM4dzczdHVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l378xzS1lxhhang9a/giphy.gif" alt="star2" align="right" width="50" height="50" hspace="90">
-<h3 align="center"> ଘ(੭ ᐛ )━☆ﾟ.*･｡ﾟ Student from Türkiye aspiring to be a fullstack developer </h3>
+<h3 align="center"> ଘ(੭ ᐛ )━☆ﾟ.*･｡ﾟ Student from Türkiye aspiring to be a fullstack developer 🧸ིྀ☁️*ੈ♡⸝⸝☕⋆ </h3>
 
 <!-- TABLE FOR PERFECT CENTERING OF CARS WITH TEXT -->
 <table align="center">
