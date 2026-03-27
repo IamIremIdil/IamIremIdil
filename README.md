@@ -30,10 +30,10 @@
 
 - 🔭 I’m currently working on [Study nest, the cozy study tracker](https://github.com/IamIremIdil/study-nest)
 - 🌱 I’m currently learning **n8n, docker, mongoDB 🧸ིྀ☁️*ੈ♡⸝⸝☕⋆**
-- 🤝 I’m looking for help with [github dashboard (live version)](https://github.com/IamIremIdil/Gitboard-live)
+- 🤝 I’m looking for help with [Study nest, the cozy study tracker](https://github.com/IamIremIdil/study-nest)
 - 🪴 Want to learn **LLM Model Architecture & Attention Mechanisms**
 - 📫 How to reach me **iamiremidil@gmail.com**
-- ⚡ Fun fact **I have so many hobbies like drawing, cooking, running, working out and ice skating ⋆꙳•❅*‧ ‧*❆ ₊⋆ 𖦹ׂ ₊˚⊹⋆**
+- ⚡ Fun fact **I have so many hobbies like drawing, cooking, running, working out/yoga and ice skating ⋆꙳•❅*‧ ‧*❆ ₊⋆ 𖦹ׂ ₊˚⊹⋆**
 ⋆𐙚❅🦌*°⋆❆.⛸️
 ₍ᐢ. .ᐢ₎ ₊˚⊹♡
 <h3 align="left">Connect with me:</h3>
