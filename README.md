@@ -28,7 +28,7 @@
 <br clear="both">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamiremidil" alt="iamiremidil" /></a> </p>
 
-- 🔭 I’m currently working on [github dashboard (live version)](https://github.com/IamIremIdil/Gitboard-live)
+- 🔭 I’m currently working on [Study nest, the cozy study tracker](https://github.com/IamIremIdil/study-nest)
 - 🌱 I’m currently learning **n8n, docker, mongoDB 🧸ིྀ☁️*ੈ♡⸝⸝☕⋆**
 - 🤝 I’m looking for help with [github dashboard (live version)](https://github.com/IamIremIdil/Gitboard-live)
 - 🪴 Want to learn **LLM Model Architecture & Attention Mechanisms**
