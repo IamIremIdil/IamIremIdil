@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamiremidil" alt="iamiremidil" /></a> </p>
 
 - 🔭 I’m currently working on [Study nest, the cozy study tracker](https://github.com/IamIremIdil/study-nest)
-- 🌱 I’m currently learning **n8n, docker, mongoDB 
+- 🌱 I’m currently learning REST API design
 - 🤝 I’m looking for help with [Study nest, the cozy study tracker](https://github.com/IamIremIdil/study-nest)
 - 🪴 Want to learn **LLM Model Architecture & Attention Mechanisms**
 - 📫 How to reach me **iamiremidil@gmail.com**
