@@ -2,9 +2,6 @@
 <h1 align="center">Hi there, I'm Irem Idil </h1>
 <h3 align="center"> Student from Türkiye aspiring to be a fullstack developer </h3>
 
-<!-- REST OF YOUR CONTENT -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamiremidil" alt="iamiremidil" /></a> </p>
-
 - 🔭 I’m currently working on [Study nest, the cozy study tracker](https://github.com/IamIremIdil/study-nest)
 - 🌱 I’m currently learning REST API design, PostgreSQL
 - 🤝 I’m looking for help with [Study nest, the cozy study tracker](https://github.com/IamIremIdil/study-nest)
