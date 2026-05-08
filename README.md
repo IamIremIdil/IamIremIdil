@@ -1,6 +1,6 @@
 <!-- FIRST SECTION (your existing header content) -->
 <h1 align="center">Hi there, I'm Irem Idil </h1>
-<h3 align="center"> Student from Türkiye aspiring to be a fullstack developer </h3>
+<h3 align="center"> Student from Türkiye aspiring to be a fullstack developer </h3> ☕💻
 
 - 🔭 I’m currently working on [Study nest, the cozy study tracker](https://github.com/IamIremIdil/study-nest)
 - 🌱 I’m currently learning REST API design, PostgreSQL
