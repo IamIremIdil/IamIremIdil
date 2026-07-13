@@ -39,7 +39,7 @@ Internship projects:
 </details>
 
 
-• daily turnstile data pipeline — automated ETL via n8n (ingests, processes, and loads entry/exit data each workday)
+• daily turnstile data pipeline — automated ETL via n8n (vacation or leaves, processes, and loads entry/exit data each workday)
 
 
 <details>
@@ -52,7 +52,6 @@ Internship projects:
   <summary>📸 PDKS job workflow preview</summary>
   ![workflow](<img width="1177" height="272" alt="pdksjobprev" src="https://github.com/user-attachments/assets/d6870057-c346-47f9-b5ee-2b9a40e206df" />)
 </details>
-
 
 <br/>
 • My internship projects are company property , happy to discuss architecture and approach over email or in an interview
