@@ -15,7 +15,7 @@ Right now my side project is [**StudyNest**](https://github.com/IamIremIdil/stud
 
 ✦ &nbsp; **things I've made**
 
-[StudyNest](https://github.com/IamIremIdil/study-nest)&nbsp; bilingual RAG chatbot on n8n for my current company (Qdrant + Ollama + HyDE) ,  [GitboardLive](https://github.com/IamIremIdil/Gitboard-live)&nbsp;, [StudyNest](https://github.com/IamIremIdil/study-nest)&nbsp;
+[StudyNest](https://github.com/IamIremIdil/study-nest)&nbsp; 、[bilingual RAG chatbot on n8n for my current company (Qdrant + Ollama + HyDE)](https://github.com/user-attachments/assets/07e038fc-53f8-4d83-81bc-79a89067a212") 、[GitboardLive](https://github.com/IamIremIdil/Gitboard-live)&nbsp; 、[Customer churn prediction model](https://github.com/IamIremIdil/Customer-churn-prediction-model)&nbsp;
 
 <br/>
 
