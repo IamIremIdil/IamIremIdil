@@ -1,22 +1,26 @@
-<!-- FIRST SECTION (your existing header content) -->
-<h1 align="center">Hi there, I'm Irem Idil </h1>
-<h3 align="center"> Student from Türkiye aspiring to be a fullstack developer ☕💻 </h3>
+<h1 align="center">Irem Idil ✦</h1>
 
-- 🔭 I’m currently working on [Study nest, the cozy study tracker](https://github.com/IamIremIdil/study-nest)
-- 🌱 I’m currently learning REST API design, PostgreSQL
-- 🤝 I’m looking for help with [Study nest, the cozy study tracker](https://github.com/IamIremIdil/study-nest)
-- 🪴 Want to learn **LLM Model Architecture & Attention Mechanisms**
-- 📫 How to reach me **iamiremidil@gmail.com**
-- ⚡ Fun fact **I have so many hobbies**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/iro.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iro.codes" height="30" width="40" /></a>
+<p align="center">
+backend · AI tooling · istanbul
+<br/>
+<a href="https://iro.codes">iro.codes</a> · <a href="https://instagram.com/iro.codes">@iro.codes</a> · iamiremidil@gmail.com
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<br/>
 
+cs student finishing up her degree in istanbul. currently interning at a logistics company: RAG pipelines, backend, etc.
+Right now my side project is [**StudyNest**](https://github.com/IamIremIdil/study-nest), a full-stack study companion with Pomodoro, mood tracking, and a friends system. I originally built it as a gift. it got forked (my first fork!) recently which was unexpectedly wholesome.
 
-> [!NOTE]
-> contact me: **iamiremidil@gmail.com**
->
+<br/>
+
+✦ &nbsp; **things I've made**
+
+[StudyNest](https://github.com/IamIremIdil/study-nest)&nbsp; bilingual RAG chatbot on n8n for my current company (Qdrant + Ollama + HyDE) ,  [StudyNest](https://github.com/IamIremIdil/study-nest)&nbsp;, [StudyNest](https://github.com/IamIremIdil/study-nest)&nbsp;
+
+<br/>
+
+✦ &nbsp; **reach for**
+
+Python · JavaScript · Node.js ·  MongoDB · Docker · n8n · Qdrant · SQLite
+
+<br/>
