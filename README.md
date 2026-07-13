@@ -8,14 +8,14 @@ Backend · AI tooling · Based in Istanbul
 
 <br/>
 
-cs student finishing up her degree in istanbul. currently interning at a logistics company dealing with RAG pipelines, backend, etc.
+Computer engineering student finishing up her degree in istanbul. currently interning at a logistics company dealing with RAG pipelines, backend, etc.
 Right now my side project is [**StudyNest**](https://github.com/IamIremIdil/study-nest), a full-stack study companion with Pomodoro, mood tracking, and a friends system. I originally built it as a gift and it got forked (my first fork!) which was unexpectedly wholesome.
 
 <br/>
 
-✦ &nbsp; **Project showcase**
+## ✦ **Project showcase**
 
-Major personal projects:
+<u>Major personal projects:</u>
 
 • [StudyNest](https://github.com/IamIremIdil/study-nest)&nbsp;
 
@@ -55,8 +55,9 @@ Internship projects:
 
 
 <br/>
-_My internship projects are company property , happy to discuss architecture and approach over email or in an interview :)_
-✦ &nbsp; **Stack**
+• My internship projects are company property , happy to discuss architecture and approach over email or in an interview
+
+**Stack**
 
 Python · JavaScript · Node.js ·  MongoDB · Docker · n8n · Qdrant · SQLite
 
