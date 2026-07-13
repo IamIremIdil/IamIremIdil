@@ -57,8 +57,6 @@ Internship projects:
 <br/>
 • My internship projects are company property , happy to discuss architecture and approach over email or in an interview
 
-**Stack**
-
+## ✦ **Stack**
 Python · JavaScript · Node.js ·  MongoDB · Docker · n8n · Qdrant · SQLite
-
 <br/>
