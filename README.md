@@ -15,7 +15,7 @@ Right now my side project is [**StudyNest**](https://github.com/IamIremIdil/stud
 
 ## ✦ **Project showcase**
 
-<u>Major personal projects:</u>
+Major personal projects:
 
 • [StudyNest](https://github.com/IamIremIdil/study-nest)&nbsp;
 
