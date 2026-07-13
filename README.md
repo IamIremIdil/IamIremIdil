@@ -8,8 +8,8 @@ Backend · AI tooling · Based in Istanbul
 
 <br/>
 
-Computer engineering student finishing up her degree in istanbul. currently interning at a logistics company dealing with RAG pipelines, backend, etc.
-Right now my side project is [**StudyNest**](https://github.com/IamIremIdil/study-nest), a full-stack study companion with Pomodoro, mood tracking, and a friends system. I originally built it as a gift and it got forked (my first fork!) which was unexpectedly wholesome.
+Computer Engineering student finishing up her degree in Istanbul. currently interning at a logistics company dealing with RAG pipelines, backend and image processing.
+Right now my side project is [**StudyNest**](https://github.com/IamIremIdil/study-nest), a full-stack study companion with Pomodoro, mood tracking, and a friends system. It was originally built as a gift and later got forked by another developer, which was unexpectedly wholesome.
 
 <br/>
 
@@ -39,8 +39,7 @@ Internship projects:
 </details>
 
 
-• daily turnstile data pipeline — automated ETL via n8n (vacation or leaves, processes, and loads entry/exit data each workday)
-
+• Automated daily ETL pipeline for employee turnstile (PDKS) data, processing attendance, leave, and vacation records with n8n.
 
 <details>
   <summary>📸 PDKS get workflow preview</summary>
@@ -54,8 +53,10 @@ Internship projects:
 </details>
 
 <br/>
-• My internship projects are company property , happy to discuss architecture and approach over email or in an interview
+• My internship projects are company property, happy to discuss architecture and approach over email or in an interview
 
 ## ✦ **Stack**
-Python · JavaScript · Node.js ·  MongoDB · Docker · n8n · Qdrant · SQLite
+Python · JavaScript · Node.js · Docker · Qdrant · MongoDB · SQLite · n8n
 <br/>
+
+Interested in backend engineering and building products people actually use.
