@@ -32,22 +32,27 @@ Internship projects:
   ![workflow](<img width="1348" height="257" alt="vectorbuild" src="https://github.com/user-attachments/assets/38e169f4-9e63-4cb8-b395-ea0212242fa1" />)
 </details>
 
+
 <details>
   <summary>📸 VectorSearch workflow preview</summary>
   ![workflow](<img width="1657" height="422" alt="ollamaragphoto" src="https://github.com/user-attachments/assets/b6b98c70-5340-4222-97ae-bea43dda48f2" />)
 </details>
 
+
 • daily turnstile data pipeline — automated ETL via n8n (ingests, processes, and loads entry/exit data each workday)
+
 
 <details>
   <summary>📸 PDKS get workflow preview</summary>
   ![workflow](<img width="602" height="210" alt="pdksget" src="https://github.com/user-attachments/assets/9727f237-0c31-4e4b-93b6-f7644b35a1e1" />)
 </details>
 
+
 <details>
   <summary>📸 PDKS job workflow preview</summary>
   ![workflow](<img width="1177" height="272" alt="pdksjobprev" src="https://github.com/user-attachments/assets/d6870057-c346-47f9-b5ee-2b9a40e206df" />)
 </details>
+
 
 <br/>
 _My internship projects are company property , happy to discuss architecture and approach over email or in an interview :)_
