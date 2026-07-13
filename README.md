@@ -3,7 +3,7 @@
 <p align="center">
 Backend · AI tooling · Based in Istanbul
 <br/>
-<a href="https://iro.codes">iro.codes</a> · <a href="https://instagram.com/iro.codes">@iro.codes</a> · iamiremidil@gmail.com
+<a href="https://instagram.com/iro.codes">@iro.codes</a> · iamiremidil@gmail.com
 </p>
 
 <br/>
