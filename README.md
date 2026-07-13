@@ -1,14 +1,14 @@
 <h1 align="center">Irem Idil ✦</h1>
 
 <p align="center">
-Backend · AI tooling · Based in Istanbul
+Backend · Based in Istanbul
 <br/>
 <a href="https://instagram.com/iro.codes">@iro.codes</a> · iamiremidil@gmail.com
 </p>
 
 <br/>
 
-Computer Engineering student finishing up her degree in Istanbul. currently interning at a logistics company dealing with RAG pipelines, backend and image processing.
+Computer Engineering student finishing up her degree in Istanbul. Currently interning at a logistics company dealing with RAG pipelines, backend and image processing.
 Right now my side project is [**StudyNest**](https://github.com/IamIremIdil/study-nest), a full-stack study companion with Pomodoro, mood tracking, and a friends system. It was originally built as a gift and later got forked by another developer, which was unexpectedly wholesome.
 
 <br/>
@@ -56,7 +56,7 @@ Internship projects:
 • My internship projects are company property, happy to discuss architecture and approach over email or in an interview
 
 ## ✦ **Stack**
-Python · JavaScript · Node.js · Docker · Qdrant · MongoDB · SQLite · n8n
+Python · JavaScript · Node.js · Docker · MongoDB · SQLite · Qdrant · n8n
 <br/>
 
 Interested in backend engineering and building products people actually use.
