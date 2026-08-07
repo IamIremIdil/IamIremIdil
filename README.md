@@ -60,3 +60,10 @@ Python · JavaScript · Node.js · Docker · MongoDB · SQLite · Qdrant · n8n
 <br/>
 
 Interested in backend engineering and building products people actually use.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com/IamIremIdil/IamIremIdil/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com/IamIremIdil/IamIremIdil/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://githubusercontent.com/IamIremIdil/IamIremIdil/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
