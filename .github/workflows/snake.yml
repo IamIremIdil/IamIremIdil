@@ -26,7 +26,7 @@ jobs:
           github_user_name: IamIremIdil
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-light&color_snake=%23ff69b4&color_dots=%23ebedf0,%23ffb6c1,%23ff69b4,%23ff1493,%23c71585
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23ff69b4&color_dots=%23ebedf0,%23ffb6c1,%23ff69b4,%23ff1493,%23c71585
       # Push the content of <build_dir> to a branch
       # The content will be available at https://githubusercontent.com<username>/<repo>/<target_branch>/<file>
       - name: Push github-contribution-grid-snake.svg to the output branch
