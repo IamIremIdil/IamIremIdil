@@ -21,8 +21,6 @@ Major personal projects:
 
 • [GitboardLive](https://github.com/IamIremIdil/Gitboard-live)&nbsp;
 
-• [Customer churn prediction model](https://github.com/IamIremIdil/Customer-churn-prediction-model)&nbsp;
-
 Internship projects:
 
 • bilingual RAG chatbot on n8n for my current company (Qdrant + Ollama + HyDE) for internal logistics use
