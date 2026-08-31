@@ -59,7 +59,7 @@ Internship projects:
 Python · JavaScript · Node.js · Docker · MongoDB · SQLite · Qdrant · n8n
 <br/>
 
-Interested in backend engineering and building products people actually use.
+Interested in backend engineering
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamIremIdil/IamIremIdil/output/github-contribution-grid-snake-dark.svg">
