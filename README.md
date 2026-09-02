@@ -27,13 +27,13 @@ Internship projects:
 
 <details>
   <summary>📸 VectorBuild workflow preview</summary>
-  ![workflow](<img width="1348" height="257" alt="vectorbuild" src="https://github.com/user-attachments/assets/38e169f4-9e63-4cb8-b395-ea0212242fa1" />)
+  ![workflow](<img width="1498" height="298" alt="Ekran görüntüsü 2026-09-02 144650" src="https://github.com/user-attachments/assets/68e7088c-9214-4853-b037-142d7319f2a0" />)
 </details>
 
 
 <details>
   <summary>📸 VectorSearch workflow preview</summary>
-  ![workflow](<img width="1657" height="422" alt="ollamaragphoto" src="https://github.com/user-attachments/assets/b6b98c70-5340-4222-97ae-bea43dda48f2" />)
+  ![workflow](<img width="1372" height="346" alt="Ekran görüntüsü 2026-09-02 144612" src="https://github.com/user-attachments/assets/d476a4b5-4e9b-443d-88c0-122b6a81dd5b" />)
 </details>
 
 
@@ -41,14 +41,13 @@ Internship projects:
 
 <details>
   <summary>📸 PDKS get workflow preview</summary>
-  ![workflow](<img width="602" height="210" alt="pdksget" src="https://github.com/user-attachments/assets/9727f237-0c31-4e4b-93b6-f7644b35a1e1" />)
+  ![workflow](<img width="843" height="265" alt="resim" src="https://github.com/user-attachments/assets/e0e9fe54-d5c0-479f-9d2e-477cfbbfe3f6" />)
 </details>
 
 
 <details>
   <summary>📸 PDKS job workflow preview</summary>
-  ![workflow](<img width="1177" height="272" alt="pdksjobprev" src="https://github.com/user-attachments/assets/d6870057-c346-47f9-b5ee-2b9a40e206df" />)
-</details>
+  ![workflow](<img width="1467" height="320" alt="resim" src="https://github.com/user-attachments/assets/39710a43-6110-4dd9-992d-506048921f04" />)
 
 <br/>
 • My internship projects are company property, happy to discuss architecture and approach over email or in an interview
@@ -64,4 +63,16 @@ Interested in backend engineering
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamIremIdil/IamIremIdil/output/github-contribution-grid-snake-dark.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/IamIremIdil/IamIremIdil/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+
+
+
+
+
+
+
+
+
+
+
 
