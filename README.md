@@ -48,15 +48,17 @@ Internship projects:
 <details>
   <summary>📸 PDKS job workflow preview</summary>
   ![workflow](<img width="1121" height="292" alt="resim" src="https://github.com/user-attachments/assets/33c5c66d-35de-495d-8ff1-4516bdbbc71c" />)
+</details>
 
 <br/>
 • My internship projects are company property, happy to discuss architecture and approach over email or in an interview
 
 ## ✦ **Stack**
 Python · JavaScript · Node.js · Docker · MongoDB · SQLite · Qdrant · n8n
-<br/>
+
 
 Interested in backend engineering
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamIremIdil/IamIremIdil/output/github-contribution-grid-snake-dark.svg">
