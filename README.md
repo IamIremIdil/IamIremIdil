@@ -47,7 +47,7 @@ Internship projects:
 
 <details>
   <summary>📸 PDKS job workflow preview</summary>
-  ![workflow](<img width="1467" height="320" alt="resim" src="https://github.com/user-attachments/assets/39710a43-6110-4dd9-992d-506048921f04" />)
+  ![workflow](<img width="1121" height="292" alt="resim" src="https://github.com/user-attachments/assets/33c5c66d-35de-495d-8ff1-4516bdbbc71c" />)
 
 <br/>
 • My internship projects are company property, happy to discuss architecture and approach over email or in an interview
@@ -63,16 +63,3 @@ Interested in backend engineering
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamIremIdil/IamIremIdil/output/github-contribution-grid-snake-dark.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/IamIremIdil/IamIremIdil/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-
-
-
-
-
-
-
-
-
-
-
-
