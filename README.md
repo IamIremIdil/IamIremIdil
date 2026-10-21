@@ -8,7 +8,7 @@ Backend · Based in Istanbul
 
 <br/>
 
-Computer Engineering student finishing up her degree in Istanbul. Currently interning at a logistics company dealing with RAG pipelines, backend and image processing.
+Computer Engineering student finishing up her degree in Istanbul. Have internship experience at a logistics company dealing with RAG pipelines, backend and image processing.
 Right now my side project is [**StudyNest**](https://github.com/IamIremIdil/study-nest), a full-stack study companion with Pomodoro, mood tracking, and a friends system.
 
 ## ✦ **Project showcase**
